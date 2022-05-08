@@ -1,0 +1,10 @@
+name:Rozha One
+weight:400
+win_a:880
+win_d:270
+typo_a:880
+typo_d:-270
+hhea_a:880
+hhea_d:-270
+hhea_l:80
+typo_l:80
